@@ -31,3 +31,4 @@
 
   let verifica1 = name1 === name2;
   let verifica2 = name1.toLowerCase === name2.toLowerCase;
+  console.log(verifica2);
