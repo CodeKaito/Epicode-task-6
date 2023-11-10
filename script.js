@@ -20,7 +20,7 @@
     nome: "Jerome",
     cognome: "Decinco",
     hobby: "Scrivere codice",
-  }
+  };
 
 // TODO 7. Crea due variabili name1 e name 2. Assegna a name 1 la stringa "john", e assegna a name2 la stringa "John" con la J maiuscola. Verifica che name1 sia diersa da name 2. Infine verifica che la loro ugualianza diventi true se entrambe vengono trasformate in Lowercase.
   let name1;
